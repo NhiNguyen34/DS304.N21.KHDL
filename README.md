@@ -1,4 +1,3 @@
-# DS304.N21.KHDL
 
 # Analysis of the Impact of Preprocessing Techniques on the Performance of Diabetic Retinopathy Image Classification
 
